@@ -25,3 +25,12 @@ This repository can be downloaded and also cloned by the following steps, you ca
     git clone https://github.com/monsurhillas007/LabelNoisePerformanceonWaterBodySegmentation.git
 
 or [download a zip archive](https://github.com/monsurhillas007/LabelNoisePerformanceonWaterBodySegmentation/archive/refs/heads/main.zip).
+
+### Getting started with the code
+Before we run the code we create an ['anaconda'](https://www.anaconda.com/) environment and install all the requirments on that virtual environment.
+
+To create the environment:
+    conda create --name YOURENVNAME
+    
+After we create the virtual environment we must activate it:
+	conda activate YOURENVNAME
