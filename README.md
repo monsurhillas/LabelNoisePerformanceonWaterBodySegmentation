@@ -11,11 +11,12 @@ The [dataset](https://github.com/monsurhillas007/LabelNoisePerformanceonWaterBod
 The [notebook](https://github.com/monsurhillas007/LabelNoisePerformanceonWaterBodySegmentation/blob/main/model.ipynb) contains the original model which have several sections containing data loader, data visualization, data augmentation, loss function, u-net model with encoder weights, and test function.
 
 ### Requirements for the model
- 1. skimage
- 2. numpy
- 3. opencv
- 4. PIL
- 5. segmentation_models_pytorch
+ 1. pytorch
+ 2. skimage
+ 3. numpy
+ 4. opencv
+ 5. PIL
+ 6. segmentation_models_pytorch
 
 ### Getting the repository
 
