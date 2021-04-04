@@ -1,8 +1,8 @@
 # LabelNoisePerformanceonWaterBodySegmentation
  This is the repository for the paper "Effects of label noise on performance of remote sensing and deep learning-based water body segmentation models" . 
  This repository contains:
- - Dataset
- - Notebook containing the model
+ - [Dataset](https://github.com/monsurhillas007/LabelNoisePerformanceonWaterBodySegmentation/tree/main/Dataset)
+ - [Notebook containing the model](https://github.com/monsurhillas007/LabelNoisePerformanceonWaterBodySegmentation/blob/main/model.ipynb)
  
 ### Dataset
 The [dataset](https://github.com/monsurhillas007/LabelNoisePerformanceonWaterBodySegmentation/tree/main/Dataset) contains total 110 georeferenced clipped tiff files of Dhaka city collected using the GEE  and also correspondent binary labels. They have been used for training, validating and Testing the model. 
