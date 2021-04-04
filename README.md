@@ -11,6 +11,9 @@ The dataset contains total 110 georeferenced clipped tiff files of Dhaka city co
 The notebook contains the original model which have several sections containing data loader, data visualization, data augmentation, loss function, u-net model with encoder weights, and test function.
 
 ### Requirements for the model
- * skimage
- * numpy
- 
+ 1. skimage
+ 2. numpy
+ 3. opencv
+ 4. PIL
+ 5. segmentation_models_pytorch
+
