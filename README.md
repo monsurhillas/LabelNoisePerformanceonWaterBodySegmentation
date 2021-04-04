@@ -29,8 +29,12 @@ or [download a zip archive](https://github.com/monsurhillas007/LabelNoisePerform
 ### Getting started with the code
 Before we run the code we create an ['anaconda'](https://www.anaconda.com/) environment and install all the requirments on that virtual environment.
 
+
+
 To create the environment:
+
     conda create --name YOURENVNAME
-    
+
 After we create the virtual environment we must activate it:
+
 	conda activate YOURENVNAME
