@@ -38,3 +38,8 @@ To create the environment:
 After we create the virtual environment we must activate it:
 
 	conda activate YOURENVNAME
+
+The code given in the repository is a notebook file which contains multiple cells working as individual python fie. to open the notebook type this in your anaconda prompt:
+
+	jupyter notebook
+
