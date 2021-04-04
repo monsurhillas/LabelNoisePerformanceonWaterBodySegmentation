@@ -1,4 +1,4 @@
-# LabelNoisePerformanceonWaterBodySegmentation
+
  This is the repository for the paper "Effects of label noise on performance of remote sensing and deep learning-based water body segmentation models" . 
  This repository contains:
  - [Dataset](https://github.com/monsurhillas007/LabelNoisePerformanceonWaterBodySegmentation/tree/main/Dataset)
@@ -27,6 +27,9 @@ This repository can be downloaded and also cloned by the following steps, you ca
 or [download a zip archive](https://github.com/monsurhillas007/LabelNoisePerformanceonWaterBodySegmentation/archive/refs/heads/main.zip).
 
 ### Getting started with the code
+
+After downloading or cloning the repository seperate your downloaded dataset in three individual folders such as Train,Valid,Test. seperate both image files and label files.
+
 Before we run the code we create an ['anaconda'](https://www.anaconda.com/) environment and install all the requirments on that virtual environment.
 
 
@@ -43,3 +46,7 @@ The code given in the repository is a notebook file which contains multiple cell
 
 	jupyter notebook
 
+When jupyter notebook is open, adjust the necessary paths according to your needs and run the notbook.
+
+#### Data augmentation
+In this notebok, the labels of the dataset can be augmented in various ways. Different kind of augmentation functions are commented there. we can use those augmentation according to our need.
